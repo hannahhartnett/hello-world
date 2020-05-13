@@ -3,7 +3,7 @@ for plotting commits per day
 
 junior at Colby College
 
-I live in Maine
+I live in western Maine
 
 it is May 9 and it is snowing
 
