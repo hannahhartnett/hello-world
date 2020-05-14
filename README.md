@@ -1,7 +1,7 @@
 # hello-world
 for plotting commits per day
 
-junior at Colby College
+junior at Colby College in Waterville, ME
 
 I live in western Maine
 
